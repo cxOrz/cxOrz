@@ -4,6 +4,8 @@
 
 - 🔭 目前正在写 [郑州轻工业大学疫情自动打卡](https://github.com/miaochenxi/iqgd-autoclockin)
 
+- ⌛ 正在建设 [郑州轻工业大学软件实践与创新基地](https://github.com/RC-Fishing)
+
 - 📝 记录学习的博客 [https://blog.csdn.net/u014418267](https://blog.csdn.net/u014418267)
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=miaochenxi&show_icons=true&count_private=true" alt="miaochenxi" /></p>
