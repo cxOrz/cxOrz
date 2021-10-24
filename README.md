@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 欢迎访问寒hub，您的到访让寒hub蓬荜生辉！</h1>
+<h1 align="center">欢迎访问，您的到访让寒HUB蓬荜生辉！</h1>
 <h3 align="center">正在学习，对技术充满激情</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miaochenxi&label=Profile%20views&color=0e75b6&style=flat" alt="miaochenxi" /> </p>
 
