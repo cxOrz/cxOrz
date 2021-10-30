@@ -2,7 +2,7 @@
 <h3 align="center">正在学习，对技术充满激情</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miaochenxi&label=Profile%20views&color=0e75b6&style=flat" alt="miaochenxi" /> </p>
 
-- 🔭 目前正在写 [郑州轻工业大学疫情自动打卡](https://github.com/miaochenxi/iqgd-autoclockin)
+- 🔭 目前正在写 [郑州轻工业大学疫情自动打卡](https://github.com/miaochenxi/iqgd-autoclockin)、[超星学习通签到](https://github.com/miaochenxi/chaoxing-sign-cli)
 
 - ⌛ 正在建设 [郑州轻工业大学软件实践与创新基地](https://github.com/RC-Fishing)
 
