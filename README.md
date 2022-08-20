@@ -1,3 +1,4 @@
-![Metrics](https://metrics.lecoq.io/cxOrz?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&achievements=false&achievements.threshold=B&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FShanghai&config.display=large)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cxOrz&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cxOrz&theme=dracula&utcOffset=8)
 
-![aaa](https://github-readme-stats.vercel.app/api?username=cxOrz&show_icons=true&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cxOrz&theme=dracula)
